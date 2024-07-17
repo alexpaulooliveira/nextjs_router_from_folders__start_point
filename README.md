@@ -1,10 +1,10 @@
-# Exercício para roteamento, no escopo da NextJS, com base nas pastas
+# Exercício para roteamento, no escopo do NextJS, com base nas pastas
 
 Esse exercício deve considerar o clone do código público disponibilizado no repositório [https://github.com/alexpaulooliveira/nextjs_router_from_folders__start_point](https://github.com/alexpaulooliveira/nextjs_router_from_folders__start_point) como ponto de partida. 
 
-### Como baixar, configurar, e executar a aplicação:
+### Como baixar o exercício proposto:
 
-Estando na pasta à partir da qual você deseja que a aplicação seja criada, execute o seguinte comando:
+Estando na pasta à partir da qual você deseja que o conteúdo seja baixado, execute o seguinte comando:
 
 ```
 git clone <endereço do repositório>
